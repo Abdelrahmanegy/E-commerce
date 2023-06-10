@@ -14,7 +14,6 @@
 <Strong>Mobile screen:</strong>
 ![_C__Users_zazaz_OneDrive_Desktop_css_projects2_E-commerece_product html_image=img_products_f3 jpg (3)](https://github.com/Abdelrahmanegy/e-commerce/assets/105970352/b1ab1871-b262-49b0-9f31-abe19a41e02f)
 
-<strong>Main Page </Strong>
 ![_C__Users_zazaz_OneDrive_Desktop_css_projects2_E-commerece_index html (1)](https://github.com/Abdelrahmanegy/e-commerce/assets/105970352/413a4d4b-81fa-4d58-b8af-acc18871153b)
 
 
