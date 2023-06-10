@@ -1,5 +1,5 @@
-# e-commerce
-Responsive E-commerce website
+# Responsive E-commerce website
+
 
 <strong> Main Page: </strong>
 ![_C__Users_zazaz_OneDrive_Desktop_css_projects2_E-commerece_index html](https://github.com/Abdelrahmanegy/e-commerce/assets/105970352/a9e5069c-8d3e-47a0-a7d8-623e945632eb)
